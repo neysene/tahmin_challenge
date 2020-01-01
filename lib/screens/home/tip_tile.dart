@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hello_world/models/tip.dart';
+import 'package:tahmin_challenge/models/tip.dart';
 
 class TipTile extends StatelessWidget {
 

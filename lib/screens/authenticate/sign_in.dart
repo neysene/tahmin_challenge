@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:hello_world/services/auth.dart';
-import 'package:hello_world/shared/constants.dart';
-import 'package:hello_world/shared/loading.dart';
+import 'package:tahmin_challenge/services/auth.dart';
+import 'package:tahmin_challenge/shared/constants.dart';
+import 'package:tahmin_challenge/shared/loading.dart';
 
 class SignIn extends StatefulWidget {
 

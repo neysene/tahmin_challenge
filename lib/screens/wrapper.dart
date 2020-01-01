@@ -1,6 +1,6 @@
-import 'package:hello_world/models/user.dart';
-import 'package:hello_world/screens/authenticate/authenticate.dart';
-import 'package:hello_world/screens/home/home.dart';
+import 'package:tahmin_challenge/models/user.dart';
+import 'package:tahmin_challenge/screens/authenticate/authenticate.dart';
+import 'package:tahmin_challenge/screens/home/home.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

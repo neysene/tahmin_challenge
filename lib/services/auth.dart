@@ -1,6 +1,6 @@
-import 'package:hello_world/models/user.dart';
+import 'package:tahmin_challenge/models/user.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:hello_world/services/database.dart';
+import 'package:tahmin_challenge/services/database.dart';
 
 class AuthService {
   final FirebaseAuth _auth = FirebaseAuth.instance;

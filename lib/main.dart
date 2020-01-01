@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:hello_world/models/user.dart';
-import 'package:hello_world/screens/wrapper.dart';
-import 'package:hello_world/services/auth.dart';
+import 'package:tahmin_challenge/models/user.dart';
+import 'package:tahmin_challenge/screens/wrapper.dart';
+import 'package:tahmin_challenge/services/auth.dart';
 import 'package:provider/provider.dart';
 
 void main() => runApp(MyApp());

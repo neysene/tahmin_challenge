@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:hello_world/models/tip.dart';
-import 'package:hello_world/services/auth.dart';
-import 'package:hello_world/services/database.dart';
+import 'package:tahmin_challenge/models/tip.dart';
+import 'package:tahmin_challenge/services/auth.dart';
+import 'package:tahmin_challenge/services/database.dart';
 import 'package:provider/provider.dart';
-import 'package:hello_world/screens/home/user_list.dart';
+import 'package:tahmin_challenge/screens/home/user_list.dart';
 
 class Home extends StatelessWidget {
 

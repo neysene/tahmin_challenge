@@ -1,5 +1,5 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:hello_world/models/tip.dart';
+import 'package:tahmin_challenge/models/tip.dart';
 
 class DatabaseService {
 

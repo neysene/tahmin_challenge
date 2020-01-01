@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:hello_world/models/tip.dart';
-import 'package:hello_world/screens/home/tip_tile.dart';
+import 'package:tahmin_challenge/models/tip.dart';
+import 'package:tahmin_challenge/screens/home/tip_tile.dart';
 
 class UserList extends StatefulWidget {
   @override

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:hello_world/screens/authenticate/register.dart';
-import 'package:hello_world/screens/authenticate/sign_in.dart';
+import 'package:tahmin_challenge/screens/authenticate/register.dart';
+import 'package:tahmin_challenge/screens/authenticate/sign_in.dart';
 
 class Authenticate extends StatefulWidget {
   @override
