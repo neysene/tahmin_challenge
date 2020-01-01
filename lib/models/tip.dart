@@ -7,4 +7,6 @@ class Tip {
 
   Tip({ this.gameID, this.name, this.pick , this.status });
 
+  //olayli
+
 }
