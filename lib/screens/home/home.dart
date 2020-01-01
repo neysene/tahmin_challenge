@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tahmin_challenge/models/tip.dart';
+import 'package:tahmin_challenge/screens/home/settings_form.dart';
 import 'package:tahmin_challenge/services/auth.dart';
 import 'package:tahmin_challenge/services/database.dart';
 import 'package:provider/provider.dart';
@@ -16,7 +17,7 @@ class Home extends StatelessWidget {
       showModalBottomSheet(context: context, builder: (context) {
         return Container(
           padding: EdgeInsets.symmetric(vertical: 20.0, horizontal: 60.0),
-          child: Text('bottom sheet'),
+          child: SettingsForm(),
         );
       });
     }
