@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "399829507636",
+    "firebase_url": "https://tahmin-challenge.firebaseio.com",
+    "project_id": "tahmin-challenge",
+    "storage_bucket": "tahmin-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399829507636:android:80a726ada6b41ea8507461",
+        "android_client_info": {
+          "package_name": "com.gofs.flutter_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399829507636-jb75tdjivl5435j7qtt4vqboflf2dibe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ1i0KPwEHWXX9VhUZkLTyij9Ixa5yLCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399829507636-jb75tdjivl5435j7qtt4vqboflf2dibe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
